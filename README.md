@@ -1,5 +1,5 @@
 # FTCArduinoBeacons
-This repository is a group of Arduino sketches that have to do with the FTC beacons.
+A group of Arduino sketches that have to do with the FTC beacons.
 
 ## beacon_imitate
 We (ok, I) accidentally fried the micro controller on some of our beacons when I was trying to chain the power from all of them together. Since the LEDs were still working, I decided to replace the chips with Arduino microcontrollers rather than buy new boards.
